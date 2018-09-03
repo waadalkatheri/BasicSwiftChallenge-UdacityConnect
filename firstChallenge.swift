@@ -4,6 +4,7 @@ import UIKit
 
 
 
+//-----------------TODO (1) --------------------
 
 /** (1)  TODO write constant number is initialized with value 10 and the test expression number > 0 evaluates to true. Hence,the
 statement print("Number is positive.") inside the body of if statement is executed.
@@ -14,7 +15,7 @@ statement print("Number is positive.") inside the body of if statement is execut
 
 
 
-//-------------------------------------
+//-----------------TODO (2 & 3) --------------------
 
 
 // (2) TODO Implement Method which calculate averageScore ->  result = firstScore + secondScore + thirdScore / 3
@@ -23,7 +24,7 @@ statement print("Number is positive.") inside the body of if statement is execut
 
 // (3) TODO Call Method averageScore + print result
 
-//-------------------------------------------------
+//-----------------TODO (4) --------------------
 
 
 /**  WE have While LOOP the test expression of the while loop is always true. var currentLevel:Int = 1, finalLevel:Int = 2
@@ -46,7 +47,8 @@ while (isLifeAvailable) {
 }
 print("outside of while loop")
 
-//----------------------------------------
+//-----------------TODO (5) --------------------
+
 
 
 // (5) TODO Implement Switch Statment swich print num =4:
