@@ -19,6 +19,11 @@ statement print("Number is positive.") inside the body of if statement is execut
 
 
 // (2) TODO Implement Method which calculate averageScore ->  result = firstScore + secondScore + thirdScore / 3
+// NOTE : Declare result variable as Underscore,  Becuse result variable that declared but didn't actually use.
+
+
+
+
 
 
 
